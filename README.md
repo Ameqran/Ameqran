@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Marouane Boukedir aka Ame9ran</h1>
 <h3 align="center">Java | Spring | Microservices | Self Contained Systems</h3>
-<h3 align="center">Old github account <a href="https://github.com/wan-bu" target="blank"><img src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" alt="marouane boukedir old github" height="22" width="22" /></a></h3>
+<h3 align="center">Old github account <a href="https://github.com/wan-bu" target="blank">https://github.com/wan-bu</a></h3>
 <h4 align="center">Senior Java Backend Developer with 6+ years of experience designing and building scalable microservices systems for government, e-commerce, and supply chains platforms. Skilled in Spring Boot, Docker, Kubernetes, Kafka, and DevOps automation.
 I'm also a football player ⚽ , enthusiast by blockchains and defi 💸</h4>
 

@@ -4,9 +4,8 @@
 <h4 align="center">Senior Java Backend Developer with 6+ years of experience designing and building scalable microservices systems for government, e-commerce, and supply chains platforms. Skilled in Spring Boot, Docker, Kubernetes, Kafka, and DevOps automation.
 I'm also a football player ⚽ , enthusiast by blockchains and defi 💸</h4>
 
-- 🔭 I’m currently working on **SnapTripONE** smart trip planner instantly snaps together routes & rooms.
+- 🔭 I’m currently working on **Syntriloom** 🤫.
 - 🌱 I’m currently learning **GO**
-- 👯 I’m looking to collaborate **on creative projects**
 - 📫 How to reach me: ***marouaneboukedir@gmail.com***
 
 ### **Connect with me:**
@@ -22,6 +21,6 @@ I'm also a football player ⚽ , enthusiast by blockchains and defi 💸</h4>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png" alt="nodejs" width="40" height="40"/> 
 <br />
 
-#### Current Github Ameqran:
+#### Current Github Account **Ameqran** Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameqran&hide=css,html" alt="ameqran-stats" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ameqran&show_icons=true" alt="ameqran" /></p>

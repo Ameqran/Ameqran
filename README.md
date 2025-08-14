@@ -25,9 +25,3 @@ I'm also a football player ⚽ , enthusiast by blockchains and defi 💸</h4>
 #### Current Github Ameqran:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameqran&hide=css,html" alt="ameqran-stats" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ameqran&show_icons=true" alt="ameqran" /></p>
-<br/>
-<br/>
-#### Old Github Account Wan-bu:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wan-bu&hide=css,html" alt="wan-bu-stats" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=wan-bu&show_icons=true" alt="wan-bu" /></p>
-

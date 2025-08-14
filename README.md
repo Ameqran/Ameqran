@@ -4,7 +4,7 @@
 <h4 align="center">Senior Java Backend Developer with 6+ years of experience designing and building scalable microservices systems for government, e-commerce, and supply chains platforms. Skilled in Spring Boot, Docker, Kubernetes, Kafka, and DevOps automation.
 I'm also a football player ⚽ , enthusiast by blockchains and defi 💸</h4>
 
-- 🔭 I’m currently working on **Syntriloom** 🤫.
+- 🔭 I’m currently working on **<a href="https://syntriloom.com/" target="blank">Syntriloom</a> 👨🏻‍💻💡**.
 - 🌱 I’m currently learning **GO**
 - 📫 How to reach me: ***marouaneboukedir@gmail.com***
 

@@ -16,14 +16,17 @@ I'm also a football player ⚽ , enthusiast by blockchains and defi 💸</h4>
 <br />
 ### Languages and Tools:
 
-<p align="left"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" alt="java" width="40" height="40"/><img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/640/golang-1024.png" alt="go" width="40" height="40"/><img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png" alt="nodejs" width="40" height="40"/> 
+<p align="left">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" alt="java" width="40" height="40"/>
+  <img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/640/golang-1024.png" alt="go" width="40" height="40"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png" alt="nodejs" width="40" height="40"/> 
 <br />
 
 #### Current Github Ameqran:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameqran&hide=css,html" alt="ameqran-stats" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ameqran&show_icons=true" alt="ameqran" /></p>
-<br />
-
+<br/>
+<br/>
 #### Old Github Account Wan-bu:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wan-bu&hide=css,html" alt="wan-bu-stats" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=wan-bu&show_icons=true" alt="wan-bu" /></p>

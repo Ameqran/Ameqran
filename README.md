@@ -22,5 +22,4 @@ I'm also a football player ⚽ , enthusiast by blockchains and defi 💸</h4>
 <br />
 
 #### Current Github Account **Ameqran** Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameqran&hide=css,html" alt="ameqran-stats" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ameqran&show_icons=true" alt="ameqran" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameqran" alt="ameqran-stats" /></p>

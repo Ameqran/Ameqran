@@ -6,6 +6,7 @@ I'm also a football player ⚽ , enthusiast by blockchains and defi 💸</h4>
 
 - 🔭 I’m currently working on **<a href="https://syntriloom.com/" target="blank">Syntriloom</a> 👨🏻‍💻💡**.
 - 🌱 I’m currently learning **GO**
+- 🧠 Writing code that works first, then reasoning about efficiency @ **<a href="https://leetcode.com/u/marouaneboukedir/" target="blank">Leetcode Account</a>**
 - 📫 How to reach me: ***marouaneboukedir@gmail.com***
 
 ### **Connect with me:**
